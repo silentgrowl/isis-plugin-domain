@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Check the registration of a domain by typing ```!domain (domainname)``` in chat (eg. ```!domain silentgrowl.com```)
+
+## Links
+
+* [isis-plugin-domain on RubyGems](https://rubygems.org/gems/isis-plugin-domain)
